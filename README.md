@@ -97,28 +97,28 @@ O projeto segue boas práticas de engenharia de software e separação de respon
 
 ## 🖥️ Demonstração Visual do APP
 
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/01.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/02.png?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/03.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/04.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/05.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/06.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/07.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/08.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/09.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/10.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/11.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/12.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/13.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/14.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/15.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/16.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/17.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/18.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/19.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/20.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/21.jpeg?raw=true" width="300px"></img>
-<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/22.jpeg?raw=true" width="300px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/01.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/02.png?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/03.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/04.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/05.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/06.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/07.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/08.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/09.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/10.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/11.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/12.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/13.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/14.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/15.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/16.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/17.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/18.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/19.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/20.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/21.jpeg?raw=true" width="250px"></img>
+<img src="https://github.com/lorenzorover/Doc-Progdonto-API/blob/main/prints-progdonto/22.jpeg?raw=true" width="250px"></img>
 
 
 ---
